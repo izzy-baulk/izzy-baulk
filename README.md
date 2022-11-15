@@ -1,3 +1,2 @@
 - 👋 Hey! I'm @izzy-baulk
-- 👀 **I’m interested in:** data science, full-stack web development and cybersecurity.
-- 🌱 **I’m currently completing:** the full-stack career path on Codecademy
+- 👀 **I’m interested in:** data science, full-stack web development and machine learning
